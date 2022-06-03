@@ -1,4 +1,4 @@
 # MySql
 
-## If you want to deepen yout knowledge of SQL
+## If you want to get deepen your knowledge of SQL
 ### Check my repository, don't waste time
